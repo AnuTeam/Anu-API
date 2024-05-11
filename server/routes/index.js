@@ -1,2 +1,3 @@
-const apiRouter = require("./api")
-exports.apiRouter = apiRouter
+const apiRouter = require("./api");
+
+exports.apiRouter = apiRouter;
